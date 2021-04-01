@@ -1,11 +1,11 @@
 # Detection of Myocardial Infarction With the help of MobileNetV2
 
-> This is the repository that houses our Deep Learningcovid lockdown project where, we tried to check if MobileNetV2 can detect and Classify Myocardial Infarction.
+> This is the repository that houses our Deep Learning project where, we tried to check if MobileNetV2 can detect and Classify Myocardial Infarction.
 
 ## Abstract
 
 > In 2005, 17 million deaths all over the world were caused by cardiovascular diseases. Out of those 17 million, almost half (7.6 million) succumbed to coronary heart disease. _Myocardial infarction_ (MI) is one of the five main types of coronary heart disease. The number of cases of cardiovascular disease is rising both in high-income countries and low- and middle income countries (LMICs) because of ageing populations. LMICs are in a greater risk as they are more populous with inadequate healthcare and widespread exposure to increasing levels of risk factors such as unhealthy diet, physical inactivity, obesity, tobacco use, diabetes, raised blood pressure and abnormal blood lipids.
->
+
 > _Myocardial Infarction (MI)_ - more commonly known as heart attack is the irreversible death of heart muscles due to the prolonged lack of oxygen. The patient who is having an Infarction requires immediate medical attention. MI screening is mostly performed by Electrocardiography (ECG) and ECG graphs are manually interpreted by the doctors. If there is a process to analyze the ECG signals and detect whether there is any MI or not - it would decrease the pressure on the doctors. It shall also solve the healthcare problems caused by the lack of doctors in remote parts of the world especially the LMICs. 
 
 
@@ -22,4 +22,12 @@
 *ROC Curve*
 ![kFold](https://raw.githubusercontent.com/PushBI/images/master/ECG%2012%20lead/kfold.png?token=AOV55OLOXGVSLTYZWM6MVEDAL5FT2)
 *KFold Cross Validation output*
+
+## Built With
+Google Colab Cloud TPU
+
+## Contributors
+* Debayan Ganguly - [Google Scholar](https://scholar.google.co.in/citations?user=eZL1OXcAAAAJ&hl=en)
+* Kingshuk Chatterjee - [Google Scholar](https://scholar.google.co.in/citations?user=o-WIpn0AAAAJ&hl=en) - [Portfolio](https://sites.google.com/view/kingshukchatterjee/home)
+
 
