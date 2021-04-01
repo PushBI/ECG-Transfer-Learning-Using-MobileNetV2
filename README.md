@@ -14,18 +14,21 @@
 > In past several techniques involving machine learning and deep learning had been employed to solve the problem, However, feature extraction remained as one of the greatest challenges in MI classification. To counter this problem, we propose a new deep learning solution for MI detection and classification where there is no need for feature extraction or training the model from scratch. Here we have used Transfer Learning on a convolutional neural network named MobileNetV2 initialising the model with imagenet weights. The experiment was performed on  PTB dataset which is a benchmark dataset for ECG analysis and the model was trained on Google Colab TPU. We have used 3358 images to classify 5 categories. We have successfully carried out the experiments with a classification accuracy of 99% and an average accuracy of 97.93% with a standard deviation of 1.61% with sensitivity and specificity of 100% and 95% respectively.
 
 ## Results
+### Training Accuracy and Loss
 ![accuracy](https://user-images.githubusercontent.com/39896375/113256006-312b8080-92e6-11eb-8b53-8145fd062204.png)
-*Training Accuracy*
 ![loss](https://user-images.githubusercontent.com/39896375/113255998-2f61bd00-92e6-11eb-98ae-29c48d6ed6a4.png)
-*Training Loss*
+### ROC Curve
 ![ROC Curve](https://user-images.githubusercontent.com/39896375/113255848-f4f82000-92e5-11eb-9c4e-17290130e27b.png)
-*ROC Curve*
+### KFold Cross Validation
 ![kfold](https://user-images.githubusercontent.com/39896375/113256009-312b8080-92e6-11eb-995c-4dc9ad92b945.png)
-*KFold Cross Validation output*
+
 ## Built With
 Google Colab Cloud TPU
 
 ## Contributors
+* Pushan Bhattacherjee - [Google Scholar](https://scholar.google.co.in/citations?user=aJpPsMsAAAAJ&hl=en)
+* Sayantan Samajpati - [LinkedIn](https://www.linkedin.com/in/sayantan-samajpati-1866b7184/) - [Github](https://github.com/creepysta)
+* Dipan Banerjee - [Research Gate](https://www.researchgate.net/profile/Dipan-Banerjee)
 * Debayan Ganguly - [Google Scholar](https://scholar.google.co.in/citations?user=eZL1OXcAAAAJ&hl=en)
 * Kingshuk Chatterjee - [Google Scholar](https://scholar.google.co.in/citations?user=o-WIpn0AAAAJ&hl=en) - [Portfolio](https://sites.google.com/view/kingshukchatterjee/home)
 
