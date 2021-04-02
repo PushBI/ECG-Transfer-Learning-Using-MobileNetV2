@@ -25,7 +25,7 @@
 ### KFold Cross Validation
 ![kfold](https://user-images.githubusercontent.com/39896375/113256009-312b8080-92e6-11eb-995c-4dc9ad92b945.png)
 ### Confusion Matrix
-![Confusion Matrix](https://user-images.githubusercontent.com/39896375/113428884-3b887000-93f5-11eb-8aa4-0d6b143aadb8.png)
+![Confusion Matrix](https://user-images.githubusercontent.com/39896375/113429592-67582580-93f6-11eb-848c-413ad7a287b4.png)
 
 ## Built With
 Google Colab Cloud TPU
